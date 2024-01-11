@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <cmath>
 #include <vector>
@@ -132,12 +131,3 @@ int main(){
 			cout << "Wspolrzedne Wierzcholka: " << wspolrzedneWierzcholka[0] << " " << wspolrzedneWierzcholka[1];					
 	}
 }
-
-
-
-
-
-
-
-
->>>>>>> dea349e95b1b68f48484115baaa71b2afa3da531
